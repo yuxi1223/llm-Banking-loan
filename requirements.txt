@@ -1,0 +1,11 @@
+streamlit
+faster-whisper
+langchain
+openai-whisper
+python-dotenv
+langchain_openai
+PyPDF2
+requests
+BeautifulSoup4
+langchain_chroma
+langchain_community
